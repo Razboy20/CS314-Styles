@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>10.12.2</checkstyleVersion>
+    <scanScope>JavaOnly</scanScope>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds" />
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="4588f6ba-bb16-4e11-9a07-f1aad5ae24d9" type="PROJECT_RELATIVE" scope="All" description="CS 314 Style Checker">$PROJECT_DIR$/cs314.checkstyle.xml</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+</project>
